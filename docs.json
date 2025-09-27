@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Selfmail Documentation",
   "colors": {
     "primary": "#36b3e0",
