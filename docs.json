@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "maple",
   "name": "Selfmail Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#36b3e0",
+    "light": "#f1f1f1",
+    "dark": "#303030"
   },
   "favicon": "/favicon.svg",
   "navigation": {
